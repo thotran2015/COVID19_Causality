@@ -8,4 +8,7 @@
 ### County - Population: https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv
 
 ### Outcome - Confirmed Case Count
-### NYT: 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv'
+### NYT: https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+
+### Treatment - Unacast Social Distancing Data
+### https://drive.google.com/file/d/1ENaGo_WY7vIkpjeFwAinO738bmuai1P_/view?usp=sharing
